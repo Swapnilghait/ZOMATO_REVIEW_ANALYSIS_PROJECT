@@ -3,17 +3,23 @@ Welcome to the Zomato Reviews Sentiment Analysis project! This venture delves de
 
 
 Project Overview
+
 Objective
+
 The primary goal of this project is to develop a robust machine learning model capable of accurately classifying Zomato reviews as either positive or negative based on a meticulously curated dataset comprising 1000 reviews.
 
 
 Tools and Technologies
+
 Programming Language: Python
+
 Libraries: pandas, nltk, scikit-learn
+
 Algorithm: Naive Bayes
 
 
 Project Steps
+
 1. Importing Libraries
 We initiated the project by importing essential Python libraries to equip ourselves for data manipulation, NLP, and machine learning tasks.
 
